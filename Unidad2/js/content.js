@@ -130,7 +130,7 @@ window.OVA_CONTENT = {
       "featuredImageAlt": "Equipo directivo revisando documentos sobre una mesa",
       "modalImage": "assets/modal1.jpg",
       "modalImageAlt": "Equipo directivo revisando documentos en una reunión",
-      "youtubeUrl": "https://www.youtube.com/watch?v=cvO24AwGLZk"
+      "youtubeUrl": "https://www.youtube.com/watch?v=dt0XsDQMyp0"
     },
     {
       "id": "03",

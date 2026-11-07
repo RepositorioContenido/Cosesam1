@@ -130,7 +130,7 @@ window.OVA_CONTENT = {
       "featuredImageAlt": "Profesionales de salud reunidas con madres y sus bebés en un espacio comunitario",
       "modalImage": "assets/modal1.jpg",
       "modalImageAlt": "Médica conversando con una mujer mayor en un consultorio",
-      "youtubeUrl": "https://www.youtube.com/watch?v=cvO24AwGLZk"
+      "youtubeUrl": "https://www.youtube.com/watch?v=QUZDM31p-sA"
     },
     {
       "id": "03",
