@@ -121,7 +121,7 @@ window.OVA_CONTENT = {
       "featuredImageAlt": "Directivo presentando a un equipo de salud junto a pantallas digitales",
       "modalImage": "assets/modal1.jpg",
       "modalImageAlt": "Hombre mayor en teleconsulta acompañado por una enfermera",
-      "youtubeUrl": "https://www.youtube.com/watch?v=cvO24AwGLZk"
+      "youtubeUrl": "https://www.youtube.com/watch?v=iXbNB_pDub4"
     },
     {
       "id": "03",

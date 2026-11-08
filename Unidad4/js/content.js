@@ -130,7 +130,7 @@ window.OVA_CONTENT = {
       "featuredImageAlt": "Directivo conversando con un equipo de salud",
       "modalImage": "assets/modal1.jpg",
       "modalImageAlt": "Directiva revisando indicadores en una tableta",
-      "youtubeUrl": "https://www.youtube.com/watch?v=cvO24AwGLZk"
+      "youtubeUrl": "https://www.youtube.com/watch?v=SM_g-zmcGTA"
     },
     {
       "id": "03",
